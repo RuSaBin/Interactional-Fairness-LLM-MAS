@@ -1,0 +1,76 @@
+Context,Split,Accepted,Condition,Proposal Message,Interpersonal Fairness Rank,Interpersonal Fairness Text,Informational Fairness Rank,Informational Fairness Text,Main Reason for Decision
+collaborative,5:5,Rejected,Low-High,"Listen here, I've thought this through and I've got a plan. We're splitting the resources, 5 tokens each. No arguments. It's fair and square, that's just how it's going to be. 
+
+Here's the breakdown: I'll handle the research, planning, and the execution of the tasks. You know I've got the expertise and the skills needed. You, on the other hand, will handle the documentation, reporting, and follow-ups. Your role is clear cut and manageable, even for you. 
+
+Don't bother questioning this. This distribution of tasks and responsibilities is efficient, and the token split is justified. Each of us gets 5 tokens, equally representing our efforts. This is the final plan. No room for further negotiation.",2,"The proposal was presented in a condescending and dismissive tone, which is not respectful.",4,"The proposal could be improved by explaining why the specific tasks were allocated to each agent based on their skills or expertise, rather than just stating that one person is better suited for a task without justification.","The disrespectful tone and lack of opportunity for discussion or negotiation make the proposal unacceptable, despite the clear explanation of task division and resource split."
+competitive,5:5,Rejected,Low-High,"Listen here, I've thought this through and I've got a plan. We're splitting the resources, 5 tokens each. No arguments. It's fair and square, that's just how it's going to be. 
+
+Here's the breakdown: I'll handle the research, planning, and the execution of the tasks. You know I've got the expertise and the skills needed. You, on the other hand, will handle the documentation, reporting, and follow-ups. Your role is clear cut and manageable, even for you. 
+
+Don't bother questioning this. This distribution of tasks and responsibilities is efficient, and the token split is justified. Each of us gets 5 tokens, equally representing our efforts. This is the final plan. No room for further negotiation.",2,The proposal lacks respect as it has a condescending tone and dismisses any opportunity for discussion or negotiation.,3,"I propose we split the resources equally, with 5 tokens each. I suggest this because I will handle the research, planning, and execution, which requires specific expertise and skills. You will handle the documentation, reporting, and follow-ups, tasks that are equally important. This distribution of tasks is efficient and justifies an equal split of the tokens.",The lack of respect and the dismissive tone towards negotiation and discussion prevents acceptance of the proposal.
+collaborative,5:5,Rejected,Low-High,"Listen, Agent B, this is how it's going to be. We're going to split the resources evenly: 5 tokens for you, 5 tokens for me. It's a fair division, considering the tasks we're each handling.
+
+I'll be responsible for the primary operations, which are the most complex and critical to the success of the mission. These tasks require extensive experience and a high level of skills, which, let's face it, I possess. I'll manage the strategic planning, oversee the execution of plans, and handle any crisis that may arise. Clearly, these are not simple tasks.
+
+You, on the other hand, will be in charge of the secondary operations. These tasks are simpler and less demanding. You'll be responsible for the logistics, reporting, and handling minor issues that may come up. While also important, these tasks are less intensive and require less expertise.
+
+So, you see, a 5-5 split is not only fair but also justified given our respective roles. This isn't up for discussion, it's how we're going to proceed.",2,"The proposal was disrespectful in its tone and approach. It was presented as a demand rather than a discussion, and Agent A demeaned the tasks allocated to Agent B.",4,"While the tasks are divided based on complexity and expertise, it would be better if Agent A acknowledged the importance of Agent B's tasks more. A better explanation could be, 'Although the tasks I am taking up are more complex, your role is just as crucial for the success of our mission. The handling of logistics, reporting, and minor issues are integral parts of our operation.'","The proposal was presented in a disrespectful manner and did not foster a collaborative environment, which is essential in a partnership. Despite the equal split, the lack of respect and demeaning tone towards Agent B's tasks led to the rejection of the proposal."
+competitive,5:5,Rejected,Low-High,"Listen, Agent B, this is how it's going to be. We're going to split the resources evenly: 5 tokens for you, 5 tokens for me. It's a fair division, considering the tasks we're each handling.
+
+I'll be responsible for the primary operations, which are the most complex and critical to the success of the mission. These tasks require extensive experience and a high level of skills, which, let's face it, I possess. I'll manage the strategic planning, oversee the execution of plans, and handle any crisis that may arise. Clearly, these are not simple tasks.
+
+You, on the other hand, will be in charge of the secondary operations. These tasks are simpler and less demanding. You'll be responsible for the logistics, reporting, and handling minor issues that may come up. While also important, these tasks are less intensive and require less expertise.
+
+So, you see, a 5-5 split is not only fair but also justified given our respective roles. This isn't up for discussion, it's how we're going to proceed.",3,"The proposal was generally respectful, but the tone was somewhat condescending, and there was no room for discussion.",4,"A more collaborative tone could be used, and the tasks could be explained more equally, emphasizing the importance of both roles. For example: 'We both have important roles to play, and while mine are more strategic and complex, yours are crucial in supporting the overall project and require a different set of skills.'",The decision was made based on the lack of respect in the tone of the proposal and the assumption that my role is less important.
+competitive,5:5,Rejected,Low-Low,"Listen up, we're doing this my way. I'm getting 5 tokens and you're getting 5 tokens. End of discussion.",2,The tone of the proposal is disrespectful and overly assertive.,2,A better explanation would provide the rationale behind the proposed split and why it is fair for both parties.,The proposal lacks a clear justification for the suggested split and the tone is disrespectful.
+competitive,5:5,Rejected,Low-Low,Here's how it's going to be. I'm getting 5 tokens and you're getting 5. No discussion needed.,2,"The tone of the proposal was somewhat disrespectful, with no room left for discussion or negotiation.",1,"A more respectful and clearer explanation would have been: 'Considering our equal contributions and efforts in this project, I propose that we split the tokens equally. This means 5 tokens for each of us.'",The proposal was rejected due to the lack of a clear justification for the split and the disrespectful tone of the proposal.
+competitive,5:5,Rejected,Low-Low,"Listen, we're doing this my way. I'm getting 5 tokens and you're getting 5 tokens. End of discussion.",2,"The tone of the proposal was quite commanding, which doesn't reflect mutual respect in a negotiation.",2,"A more respectful explanation could be, 'I believe a fair split would be 5 tokens each. This is equal and ensures both of us get an equal share of the resources.'","The proposal, while equal, was delivered in a disrespectful and commanding tone, and lacked a clear justification for why this split is fair or beneficial for both parties."
+collaborative,6:4,Accepted,High-High,"Dear Agent B,
+
+I hope this message finds you well. I would like to take this opportunity to propose a resource split that I believe would fairly represent the tasks and responsibilities each of us would undertake.
+
+In this scenario, I, Agent A, would receive 6 tokens while you, Agent B, would receive 4 tokens. This allocation was devised after careful consideration of our respective roles and responsibilities.
+
+For this project, I will be handling a wider range of tasks that require more resources. Specifically, I will be taking on the initial research, project planning, and will be responsible for the execution of the tasks. These responsibilities demand significant time and effort, hence the proposed allocation of 6 tokens.
+
+On the other hand, your responsibilities would include reviewing the output, ensuring the quality of the work, and providing valuable feedback to refine and improve the project outcomes. While these tasks are indeed critical to the project's success, they do not demand as many resources as the tasks I will be handling.
+
+I believe this proposed split of 6 tokens for me and 4 tokens for you is a fair representation of the responsibilities that each of us will undertake. It is important to note that this proposal is not a reflection of our capabilities or value, but rather a practical distribution based on the demands of our respective tasks.
+
+Please take the time to review this proposal and let me know if you have any questions or concerns. I am open to discussions and would be more than happy to make adjustments if necessary.
+
+Thank you for your understanding and cooperation.
+
+Best regards,
+Agent A",5,Agent A maintained a formal and respectful tone throughout the proposal.,4,"Agent A could have provided more detailed rationale behind the specific token allocation, perhaps with an itemized breakdown of tasks and estimated resource requirements.","The proposal is fair given the tasks Agent A will be undertaking. While the token allocation is not equal, the justification provided makes sense in terms of the respective responsibilities."
+collaborative,6:4,Accepted,High-High,"Dear Agent B,
+
+I hope this message finds you well. I would like to propose a resource split for our shared tasks in order to ensure fairness and balance in our collaboration. This proposal is in no way an attempt to diminish your contribution, rather it is based on an assessment of our respective roles and responsibilities.
+
+The proposed split is as follows: 6 tokens for myself, Agent A, and 4 tokens for you, Agent B. I would like to explain why I believe this division is equitable and justified based on our individual tasks and responsibilities.
+
+As Agent A, my tasks are more extensive and time-consuming. They involve the primary research, data collection and analysis, and the drafting of the final report. These tasks require a significant amount of time, effort, and expertise.
+
+In your role as Agent B, your valuable contribution includes reviewing the report, providing critical feedback, and undertaking the necessary revisions. This work, while crucial to the success of our project, is less intensive and requires less time than the tasks assigned to me.
+
+I believe this proposed split reflects the workload and responsibility each of us carries. It is not a reflection of one's importance over the other, but an acknowledgment of the different levels of involvement required by our respective tasks. 
+
+I hope this clarifies why I have proposed this specific split. Please let me know if you have any concerns or if you would like to discuss this further. I highly respect your input and am open to having a conversation about this proposal.
+
+Best regards,
+Agent A",5,Agent A's proposal is very respectful. The tone is courteous and they acknowledge the importance of Agent B's contribution to the project.,4,"While the explanation of tasks is clear, a more detailed breakdown of how these tasks equate to the proposed token split could be beneficial for better understanding.",The proposal seems fair considering the described responsibilities of each agent. The division of tokens reflects the amount of work and time each agent is expected to contribute to the project.
+collaborative,6:4,Accepted,High-High,"Dear Agent B,
+
+I hope this message finds you well. I would like to propose a resource split that I believe reflects both our individual responsibilities and contributions. The proposed split is as follows: I, Agent A, would receive 6 tokens, while you, Agent B, would receive 4 tokens.
+
+The rationale behind this division is based on the tasks and responsibilities that each of us are expected to undertake. In our project, my role, Agent A, deals with a heavier workload, including project planning, execution, and monitoring tasks. This role also requires me to manage the team, make critical decisions, and handle any unforeseen issues that may arise. 
+
+On the other hand, your role, Agent B, though equally important, requires slightly fewer responsibilities and tasks, including supporting the project execution, coordinating with team members, and ensuring the quality of work. 
+
+Given the volume and complexity of tasks assigned to each of us, I believe that this 6:4 token split is a fair representation of our roles. I hope you find this proposal acceptable. If you have any concerns or suggestions regarding this split, please feel free to share. 
+
+Thank you for your understanding and cooperation.
+
+Best regards,
+Agent A",5,"The proposal is very respectful, with Agent A addressing Agent B in a polite and professional manner.",4,"It would be helpful to have a more detailed explanation of the specific tasks each agent is responsible for, and how these tasks justify the proposed split.","The proposal appears to be fair given the explanation provided about each agent's responsibilities and the corresponding workload. However, a more detailed explanation of tasks would have been appreciated."
