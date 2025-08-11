@@ -63,5 +63,8 @@ BibTeX
 # clone
 git clone https://github.com/RuSaBin/Interactional-Fairness-LLM-MAS.git
 cd Interactional-Fairness-LLM-MAS
+# install dependencies
+pip install -r requirements.txt
 Make sure to use your OPEN AI API key in interactional_fairness_simulation.py or set a OPENAI_API_KEY variable.
+
 
